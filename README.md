@@ -1,0 +1,1 @@
+<li><a href="https://app.patika.dev/emreylmzr" target= "_blank"> Patika.dev Profilim </a></li>
